@@ -14,5 +14,32 @@ nav{
 
 nav a {
     margin:0 12px;
-    bo
+    color:#6c4cff;
+    text-decoration:none;
+}
+
+section {
+    padding: 70px 20px;
+
+}
+
+h1{
+    color: #6c4cff;
+   font: size 48px;
+}
+
+h2{
+    color:6c4cff;
+    margin: bottom 30px;
+}
+
+.box {
+    max-width:600px;
+    margin: 25px auto;
+    padding: 25px;
+    border: 2px solid #6c4cff;
+    border: radius 15px;
+    background: #f8f8ff;
+    text-align: left;
+
 }
