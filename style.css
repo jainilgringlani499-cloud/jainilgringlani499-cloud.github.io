@@ -1,6 +1,6 @@
 body {
-    background:#f5f3ff;
-    color:#222222';
+    background: #0be0e1b;
+    color: #f1f5f9;
     font-family:Arial,sans-serif;
     margin: 0;
     text-align:center;
@@ -51,7 +51,7 @@ h2{
     height: 160px;
     object-fit:cover;
     border-radius:50%;
-    border:4px solid #6c4cff;
+    border: 3px solid #4ee8ff;
     margin: bottom 20px;
 
 
