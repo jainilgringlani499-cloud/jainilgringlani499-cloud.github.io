@@ -43,3 +43,11 @@ h2{
     text-align: left;
 
 }
+.profile-photo{
+    width: 160px;
+    height: 160px;
+    object-fit:cover;
+    border-radius:50%;
+
+
+}
