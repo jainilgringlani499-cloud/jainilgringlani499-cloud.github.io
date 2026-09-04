@@ -56,3 +56,21 @@ h2{
 
 
 }
+.project-box {
+    max-width: 600px;
+    margin: 25px auto;
+    padding: 25px;
+    background:white;
+    border-radius: 15px;
+    text-align: left;
+
+}
+
+.project-box h3 {
+    color: #6c4cff;
+    margin-top: 0;
+}
+
+.project-box p {
+    line-height: 1.6;
+}
