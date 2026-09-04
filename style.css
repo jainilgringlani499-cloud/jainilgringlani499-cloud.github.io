@@ -2,7 +2,7 @@ body {
     background:#f5f3ff;
     color:#222222';
     font-family:Arial,sans-serif;
-    margin:0;
+    margin: 0;
     text-align:center;
 
 }
@@ -60,9 +60,11 @@ h2{
     max-width: 600px;
     margin: 25px auto;
     padding: 25px;
-    background:white;
+    background: white;
+    border: 1px solid #dddddd;
     border-radius: 15px;
     text-align: left;
+}
 
 }
 
