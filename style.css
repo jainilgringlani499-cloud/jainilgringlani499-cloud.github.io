@@ -75,4 +75,35 @@ h2{
 
 .project-box p {
     line-height: 1.6;
+}.stars-container {
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+}
+
+.stars, .stars2, .stars3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1px;
+    height: 1px;
+    background: transparent;
+    animation: twinkle 4s ease-in-out infinite;
+}
+
+.stars2 {
+    width: 2px;
+    height: 2px;
+    animation-duration: 6s;
+}
+
+.stars3 {
+    width: 3px;
+    height: 3px;
+    animation-duration: 8s;
+}
+
+@keyframes twinkle {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.3; }
 }
