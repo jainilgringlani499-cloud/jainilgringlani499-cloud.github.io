@@ -9,8 +9,9 @@ A robotics Project I work on and presented it in w.r.o regional
 A project that contains all my info.
 
 ## Tech Stack Used:
--HTML
--CSS
+- HTML
+- CSS
+- Javascript
 
 ## What I Learned ?
 While Making this I learned about css and html.
