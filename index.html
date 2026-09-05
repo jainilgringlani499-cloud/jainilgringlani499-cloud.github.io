@@ -7,10 +7,11 @@
 
         <title>JAINIL|PORTFOLIO</title>
         <link rel="stylesheet" href="style.css">
+        <script src = "scripts.js" defer> </script>
     </head>
 
     <body>
-        <div class="stars-container">
+    <div class="stars-container">
     <div class="stars"></div>
     <div class="stars2"></div>
     <div class="stars3"></div>
@@ -36,8 +37,6 @@
                 <div class="box">
                     <p>
                         I have participted in several competitons and workshops ,gaining experience beyond what i expected at my age.
-
-
                     </p>
                 </div>
                 </section>
@@ -55,7 +54,6 @@
 
                 <div class="project-box">
                     <h3> My PORTFOLIO </h3>
-
                     <p>A project which contains my info.
 
                     </p>
@@ -81,21 +79,6 @@
 
                     </div>
                 </section>
-                <script>
-    function generateStars(count) {
-        let shadows = [];
-        for (let i = 0; i < count; i++) {
-            let x = Math.floor(Math.random() * window.innerWidth);
-            let y = Math.floor(Math.random() * window.innerHeight);
-            shadows.push(x + "px " + y + "px #fff");
-        }
-        return shadows.join(",");
-    }
-
-    document.querySelector(".stars").style.boxShadow = generateStars(300);
-    document.querySelector(".stars2").style.boxShadow = generateStars(100);
-    document.querySelector(".stars3").style.boxShadow = generateStars(50);
-</script>
                 
                 </body>
   </html>
