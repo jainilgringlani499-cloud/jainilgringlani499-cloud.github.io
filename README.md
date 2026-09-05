@@ -2,10 +2,12 @@
 This is my personal portfolio which includes my projects , photo and things i have worked on.
 
 ## Projects
-1. **Smart Mandir** 
+1. **Smart Mandir**
+
 A robotics Project I work on and presented it in w.r.o regional
 
-2. **My Personal Portfolio** 
+2. **My Personal Portfolio**
+
 A project that contains all my info.
 
 ## Tech Stack Used:
